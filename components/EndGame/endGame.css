@@ -1,0 +1,27 @@
+.final-msg {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.retry {
+    width: 30%;
+  border-radius: 2rem;
+  border: 0.4rem solid rgb(0, 175, 206);
+  padding: 1rem 1rem;
+  font-size: 1.1rem;
+  color: white;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.suspended {
+  color: red;
+}
+
+.passed {
+  color: green;
+}

@@ -1,0 +1,172 @@
+{
+  "quiz": [
+    {
+      "category": "Geography",
+      "id": "1",
+      "correctAnswer": "Portugal",
+      "incorrectAnswers": ["Kosovo", "Cuba", "Panama"],
+      "question": "Lisbon is the capital city of which country?"
+    },
+    {
+      "category": "Society & Culture",
+      "id": "2",
+      "correctAnswer": "Disneyland",
+      "incorrectAnswers": ["Hallmark", "Holiday Inn", "Airbnb"],
+      "question": "Which brand is associated with the marketing slogan 'The happiest place on earth'?"
+    },
+    {
+      "category": "Society & Culture",
+      "id": "3",
+      "correctAnswer": "Moses",
+      "incorrectAnswers": ["Mohammed", "Frodo", "Buddha"],
+      "question": "Who of these was a key figure of Jewish/Christian history?"
+    },
+    {
+      "category": "Science",
+      "id": "4",
+      "correctAnswer": "myths",
+      "incorrectAnswers": ["mountains and their mapping", "character", "sex"],
+      "question": "What is Mythology the study of?"
+    },
+    {
+      "category": "Film & TV",
+      "id": "5",
+      "correctAnswer": "\"With great power comes great responsiblity.\"",
+      "incorrectAnswers": [
+        "\"I love lamp.\"",
+        "\"Which would be worse, to live a monster or die as a good man?\"",
+        "\"La-dee-da, la-dee-da.\""
+      ],
+      "question": "Which of these quotes is from the film 'Spider-Man'?"
+    },
+    {
+      "category": "Society & Culture",
+      "id": "6",
+      "correctAnswer": "38th President of the USA. ",
+      "incorrectAnswers": [
+        "Developed the world's first vaccine (for smallpox).",
+        "Italian explorer who landed in America.",
+        "Dictator of Nazi Germany."
+      ],
+      "question": "Which of the following describes John F. Kennedy?"
+    },
+    {
+      "category": "Science",
+      "id": "7",
+      "correctAnswer": "Dialects",
+      "incorrectAnswers": ["X-Rays", "Drugs", "Clouds"],
+      "question": "What is dialectology the study of?"
+    },
+    {
+      "category": "Music",
+      "id": "8",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": ["Nicki Minaj", "Neil Young", "Eric Clapton"],
+      "question": "Which musician released the album 'Off the Wall'?"
+    },
+    {
+      "category": "Geography",
+      "id": "9",
+      "correctAnswer": "London",
+      "incorrectAnswers": ["Manchester", "Birmingham", "Winchester"],
+      "question": "What is the capital city of The United Kingdom?"
+    },
+    {
+      "category": "Science",
+      "id": "10",
+      "correctAnswer": "Erosion",
+      "incorrectAnswers": ["Sediment", "Vegetation", "Sublimation"],
+      "question": "By what process is rock worn down by the weather?"
+    },
+    {
+      "category": "Society & Culture",
+      "id": "11",
+      "correctAnswer": "Nike",
+      "incorrectAnswers": ["Reebok", "Adidas", "Puma"],
+      "question": "Which brand is associated with the marketing slogan 'Just do it'?"
+    },
+    {
+      "category": "Science",
+      "id": "12",
+      "correctAnswer": "primates",
+      "incorrectAnswers": [
+        "the attribute (of a word) of being self descriptive",
+        "the heart",
+        "the study and design of machines at the molecular level"
+      ],
+      "question": "What is Primatology the study of?"
+    },
+    {
+      "category": "Geography",
+      "id": "13",
+      "correctAnswer": "Perth",
+      "incorrectAnswers": ["Auckland", "Christchurch", "Queenstown"],
+      "question": "Which of these cities is in Australia?"
+    },
+    {
+      "category": "Arts & Literature",
+      "id": "14",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
+    },
+    {
+      "category": "Society & Culture",
+      "id": "15",
+      "correctAnswer": "Motorola",
+      "incorrectAnswers": ["Sony", "Samsung", "Nokia"],
+      "question": "'Hello Moto' is a slogan associated with which communications brand?"
+    },
+    {
+      "category": "Arts & Literature",
+      "id": "16",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": "Which author wrote 'Harry Potter and the Philosopher's Stone'?"
+    },
+    {
+      "category": "Geography",
+      "id": "17",
+      "correctAnswer": "Germany",
+      "incorrectAnswers": ["Ukraine", "Poland", "Switzerland"],
+      "question": "Berlin is the capital city of which country?"
+    },
+    {
+      "category": "Sport & Leisure",
+      "id": "18",
+      "correctAnswer": "Football",
+      "incorrectAnswers": ["Athletics", "Motor racing", "Basketball"],
+      "question": "With which sport is Pele associated?"
+    },
+    {
+      "category": "Science",
+      "id": "19",
+      "correctAnswer": "the climate",
+      "incorrectAnswers": [
+        "fossils of ancient life",
+        "glaciers",
+        "a branch of medicine that deals with the venous system"
+      ],
+      "question": "What is Climatology the study of?"
+    },
+    {
+      "category": "Film & TV",
+      "id": "20",
+      "correctAnswer": "\"You're gonna need a bigger boat.\"",
+      "incorrectAnswers": [
+        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
+        "\"Mother of mercy, is this the end of Rico?\""
+      ],
+      "question": "Which of these quotes is from the film 'Jaws'?"
+    }
+  ]
+}

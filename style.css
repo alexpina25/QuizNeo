@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700;800&display=swap");
+
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  --text: rgba(255, 255, 255, 0.87);
+  --blue: #08f;
+  --red: #ff2727;
+  --green: #40ff27;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0;
+  background-color: #242424;
+
+  font-family: "Exo 2";
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@keyframes flicker {
+  0%,
+  100% {
+    box-shadow: 0 0 0.5rem var(--blue), inset 0 0 0.5rem var(--blue),
+      0 0 2rem var(--blue), inset 0 0 1rem var(--blue), 0 0 2rem var(--blue),
+      inset 0 0 3rem var(--blue);
+  }
+}
+@keyframes flicker-red {
+  0%,
+  100% {
+    box-shadow: 0 0 0.5rem var(--blue), inset 0 0 0.5rem var(--blue),
+      0 0 2rem var(--blue), inset 0 0 1rem var(--blue), 0 0 2rem var(--blue),
+      inset 0 0 3rem var(--blue);
+  }
+}
+@keyframes flicker-green {
+  0%,
+  100% {
+    box-shadow: 0 0 0.5rem var(--blue), inset 0 0 0.5rem var(--blue),
+      0 0 2rem var(--blue), inset 0 0 1rem var(--blue), 0 0 2rem var(--blue),
+      inset 0 0 3rem var(--blue);
+  }
+}

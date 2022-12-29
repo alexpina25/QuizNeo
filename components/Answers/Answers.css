@@ -1,0 +1,50 @@
+#answers {
+  margin: 10px 10px;
+  border: 0.4rem solid #fff;
+  border-radius: 2rem;
+  animation: flicker 1.5s infinite;
+  width: 70%;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 10px;
+  gap: 30px;
+}
+
+li,
+.option {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option {
+  border-radius: 2rem;
+  border: 0.4rem solid rgb(0, 175, 206);
+  padding: 1rem 1rem;
+  font-size: 1.1rem;
+  color: white;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.no-hover {
+  pointer-events: none;
+}
+
+.selected {
+  border-color: #cbce10;
+}
+.correct {
+  border-color: #40ff27;
+}
+
+.incorrect {
+  border-color: #ff2727;
+}

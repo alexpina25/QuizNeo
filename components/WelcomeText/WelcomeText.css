@@ -1,0 +1,14 @@
+.text {
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
